@@ -1,0 +1,6 @@
+name = jQuery-i18n-properties
+description = I18n helper
+package = jQuery-i18n-properties
+core = 7.x
+dependencies[] = libraries (>=2.x)
+
