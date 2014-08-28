@@ -1,0 +1,5 @@
+drupal7-mod-jqueryi18nproperties (1.0.0-1) unstable; urgency=low
+
+  * Initial packaging (Closes: #759539)
+
+ -- Daniel Pocock <daniel@pocock.pro>  Thu, 28 Aug 2014 11:41:07 +0200

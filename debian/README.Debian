@@ -1,0 +1,8 @@
+
+See README.Debian in drupal7-mod-libraries to understand how the
+library installation mechanism works for Drupal packages on Debian.
+
+After installing this package, you must log in to the Drupal
+module administration page (for each virtual host) and enable the
+module there.
+

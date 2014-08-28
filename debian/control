@@ -1,0 +1,24 @@
+Source: drupal7-mod-jqueryi18nproperties
+Section: web
+Priority: optional
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Uploaders: Daniel Pocock <daniel@pocock.pro>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
+Vcs-Browser: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
+Vcs-Git: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
+
+Package: drupal7-mod-jqueryi18nproperties
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, libjs-jquery-i18n-properties, drupal7-mod-libraries
+Recommends: javascript-common
+Description: lightweight jQuery internationalization plugin Drupal module
+ Lightweight jQuery plugin for providing internationalization to JavaScript
+ from ‘.properties’ files, just like in Java Resource Bundles. It loads and
+ parses resource bundles (.properties) based on provided language and
+ country codes (ISO-639 and ISO-3166) or language reported by browser.
+ .
+ This package provides the JavaScript library for use in Drupal sites.
+
