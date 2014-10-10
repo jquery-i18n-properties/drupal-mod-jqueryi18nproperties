@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
 Uploaders: Daniel Pocock <daniel@pocock.pro>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
 Vcs-Browser: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
 Vcs-Git: https://github.com/jquery-i18n-properties/drupal-mod-jqueryi18nproperties
