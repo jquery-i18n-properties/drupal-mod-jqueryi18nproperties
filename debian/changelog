@@ -1,3 +1,9 @@
+drupal7-mod-jqueryi18nproperties (1.0.1-1) unstable; urgency=low
+
+  * Update for standards-version 3.9.6
+
+ -- Daniel Pocock <daniel@pocock.pro>  Fri, 10 Oct 2014 14:46:24 +0200
+
 drupal7-mod-jqueryi18nproperties (1.0.0-1) unstable; urgency=low
 
   * Initial packaging (Closes: #759539)
