@@ -1,3 +1,10 @@
+drupal7-mod-jqueryi18nproperties (1.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Correct mismatched PHP function name.  (Closes: #768502)
+
+ -- Daniel Pocock <daniel@pocock.pro>  Fri, 07 Nov 2014 22:33:14 +0100
+
 drupal7-mod-jqueryi18nproperties (1.0.0-2) unstable; urgency=low
 
   * Update for standards-version 3.9.6
