@@ -24,7 +24,7 @@
  *  An associative array whose keys are internal names of libraries
  *  and whose values are describing each library.
  */
-function jssip_libraries_info() {
+function jqueryi18nproperties_libraries_info() {
   $libraries['jqueryi18nproperties'] = array(
     'name' => 'jQuery-i18n-properties',
     'vendor url' => 'https://github.com/jquery-i18n-properties/jquery-i18n-properties',
