@@ -20,4 +20,3 @@ enable the modules:
   * jqueryi18nproperties
 
 Finally, install and enable any other modules that want to use it.
-

@@ -26,7 +26,7 @@
  * of the DruCall module - see http://drucall.org for source code
  * and a live demonstration.
  *
- * @return array()
+ * @return array
  *   An associative array whose keys are internal names of libraries
  *   and whose values are describing each library.
  */
