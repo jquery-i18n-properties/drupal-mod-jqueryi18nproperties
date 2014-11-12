@@ -1,8 +1,14 @@
 <?php
+/**
+ * @file
+ * Libraries API functions for the jQuery-i18n-properties module.
+ *
+ * A popular library used as a dependency for some other third-party
+ * JavaScript projects.
+ */
 
 /**
- * hook_libraries_info() implementation for the jQuery-i18n-properties
- * library module
+ * hook_libraries_info() Implementation for jQuery-i18n-properties.
  *
  * jQuery-i18n-properties is used by some HTML5/JavaScript
  * applications, libraries and modules to replace strings dynamically.
@@ -20,9 +26,9 @@
  * of the DruCall module - see http://drucall.org for source code
  * and a live demonstration.
  *
- * @return
- *  An associative array whose keys are internal names of libraries
- *  and whose values are describing each library.
+ * @return array()
+ *   An associative array whose keys are internal names of libraries
+ *   and whose values are describing each library.
  */
 function jqueryi18nproperties_libraries_info() {
   $libraries['jqueryi18nproperties'] = array(
@@ -36,12 +42,10 @@ function jqueryi18nproperties_libraries_info() {
       'cols' => 8,
     ),
     'files' => array(
-          'js' => array(
-            'jquery.i18n.properties.js',
+      'js' => array(
+        'jquery.i18n.properties.js',
       ),
     ),
   );
   return $libraries;
 }
-
-
